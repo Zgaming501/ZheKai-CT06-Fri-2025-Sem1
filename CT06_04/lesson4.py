@@ -54,7 +54,7 @@ print("1 "+ (Age))
 # 2. Double the number and convert it back to a string.
 # 3. Print "Double your number is [double the number]".
 Number = input("What is your phone number")
-("Number * 2")
+
 print("your number is")
 # **Task 3c**:
 # 1. Use input() to ask the user for the year they were born and
