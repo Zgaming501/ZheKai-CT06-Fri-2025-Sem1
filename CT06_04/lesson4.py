@@ -46,7 +46,7 @@ print("I would love to visit" + (Dream))
 # years old."
 Age = input("What is your age?")
 age = age + 50
-print("If Iam 50 years older, I would be ta")
+print("If Iam 50 years older, I would be taking a walk in the park")
 
 
 # **Task 3b**:
