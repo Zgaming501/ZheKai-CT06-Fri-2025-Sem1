@@ -31,7 +31,7 @@ print("Hi + (Name)")
 # Print a message saying "I enjoy [hobby]" using string
 # concatenation.
 Hobby = input("What is your favourite hobby?")
-print("I enjoy + (Hobby)")
+print("I enjoy "+ (Hobby))
 
 # **Task 2c**:
 # Ask the user for their dream vacation destination using input()
