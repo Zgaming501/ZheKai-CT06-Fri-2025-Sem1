@@ -47,12 +47,13 @@ print("I would love to visit" + (Dream))
 Age = input("What is your age?")
 print("1 "+ (Age))
 
+
 # **Task 3b**:
 # 1. Use input() to ask the user for a number. Convert this number
 # from a string to an integer.
 # 2. Double the number and convert it back to a string.
 # 3. Print "Double your number is [double the number]".
-
+Number = input()
 # **Task 3c**:
 # 1. Use input() to ask the user for the year they were born and
 # convert it to an integer.
