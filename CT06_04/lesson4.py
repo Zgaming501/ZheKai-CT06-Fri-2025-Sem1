@@ -39,3 +39,4 @@ print("I enjoy + (Hobby)")
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
 Dream = input("What is your dream vacation destination?")
+print("I would ")
