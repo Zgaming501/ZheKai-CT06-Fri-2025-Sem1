@@ -7,6 +7,7 @@ print("$" + str(futuremoney))
 #Use the input() function to ask the user for their name and
 #store it in a variable. Then print that variable.
 Name12 = input("What is your name")
+print("")
 
 #**Task 1b**:
 #Ask the user for their favorite colour using input() and
