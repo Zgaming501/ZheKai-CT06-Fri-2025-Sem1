@@ -16,8 +16,7 @@ print((Name12))
 #**Task 1c**:
 #Ask the user for their age using input() and store the answer
 #in a variable. Print the variable.
-Name12 = input("What is your name")
-print(Name12)
+
 # **Task 2a**:
 # Ask the user for their name using input() and store it in a
 # variable. 
