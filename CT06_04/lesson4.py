@@ -22,7 +22,8 @@ print((Name12))
 # variable. 
 # Concatenate the name with "Hi, [name]!" and print the
 # complete message.
-Name = input("")
+Name = input("What is your name")
+
 
 # **Task 2b**:
 # Use input() to ask the user for their favorite hobby. Store this
