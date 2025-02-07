@@ -56,7 +56,7 @@ print("If I am 50 years older,at " + str(Age) + "years old, I will be taking an 
 # 3. Print "Double your number is [double the number]".
 Number = input("What is your phone number")
 Number = int(Number)
-print("your number is")
+Number + Numbre + 
 # **Task 3c**:
 # 1. Use input() to ask the user for the year they were born and
 # convert it to an integer.
