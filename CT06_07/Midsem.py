@@ -8,4 +8,4 @@
 # print("Nice to meet you" + (Name12) )
 # Question 2
 for counter in range (4,10,2):
-    print(counter)
+    print(int(counter))
