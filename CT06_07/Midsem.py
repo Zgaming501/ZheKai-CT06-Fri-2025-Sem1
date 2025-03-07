@@ -17,3 +17,7 @@
 #     print(int(counter))
 for counter in range (100,1,-1):
     print(int(counter))
+X = int(input("First number? "))
+Y = int(input("Second number? "))
+results = x + y / 2
+print(results)
