@@ -10,4 +10,4 @@
 for counter in range (4,10,2):
     print(int(counter))
 for counter in range (7,1,-3):
-    print
+    print(int(counter))
