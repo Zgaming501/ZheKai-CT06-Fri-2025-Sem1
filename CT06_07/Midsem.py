@@ -1,5 +1,6 @@
 # Question 1
 # ask for name and generate a greeting message
+
 Name12 = input("What is your name")
 print("Nice to meet you" + (Name12) )
 
