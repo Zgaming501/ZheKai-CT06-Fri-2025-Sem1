@@ -16,4 +16,4 @@
 # for counter in range (77,7,0):
 #     print(int(counter))
 for counter in range (100,1,-1):
-    priny
+    print(int(counter))
