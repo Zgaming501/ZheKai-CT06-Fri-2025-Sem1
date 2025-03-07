@@ -5,7 +5,8 @@ Name12 = input("What is your name")
 print("Nice to meet you" + (Name12) )
 Name12 = input("What is your name")
 print("Nice to meet you" + (Name12) )
-
+Name12 = input("What is your name")
+print("Nice to meet you" + (Name12) )
 # Question 2
 # ask for three numbers 
 # generate a sequence with a interval
