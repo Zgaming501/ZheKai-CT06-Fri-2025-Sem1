@@ -26,5 +26,5 @@ rider2 = 6
 if rider1 >= 18 or rider2 >= 18:
     print("you can ride")
 else:
-    print("need one adult or age ")
+    print("need one adult or age > 18 Womp Womp")
 
