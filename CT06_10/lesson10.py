@@ -8,4 +8,4 @@ else:
     print("U are not of eligible age to vote yet Womp Womp")
 price = int(input("What price do you want"))
 if price < 5:
-    print 
+    print("Sounds ")
