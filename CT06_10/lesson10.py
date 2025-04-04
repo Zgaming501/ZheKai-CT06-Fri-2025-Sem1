@@ -18,4 +18,4 @@ elif px >=500:
 
 divide = int(input("What number do you want"))
 if (divide %3==0) and (divide %7==0):
-    print("")
+    print("The nmber id divisible by 7")
