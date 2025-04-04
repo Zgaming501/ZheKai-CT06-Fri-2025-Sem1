@@ -17,3 +17,5 @@ elif px >=500:
     print("do you u really need this? If u are so rich, gimmie money$$")
 
 divide = int(input("What number do you want"))
+if (divide %3==0) and (divide %7==0):
+    print("")
