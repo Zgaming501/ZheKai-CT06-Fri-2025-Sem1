@@ -29,4 +29,4 @@ else:
     print("need one adult or age > 18 Womp Womp")
 age =int(input("How old are u?"))
 if age <= 12 or age >= 65:
-    print
+    print("Ticket price ")
