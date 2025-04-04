@@ -1,5 +1,5 @@
 print("Hello from lesson 11")
-score = int(input("What score did you get?"))
+score = int(input("What score did you get? I am curious?"))
 if 89<score<101:
     print("AL1")
 elif 79<score<90:
