@@ -9,4 +9,4 @@ elif 69<score<80:
 elif 59<score<70:
     print("AL4")
 else:
-    print("AL5 try harder next time")
+    print("AL5, try harder next time")
