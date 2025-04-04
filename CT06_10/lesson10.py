@@ -18,4 +18,6 @@ elif px >=500:
 
 divide = int(input("What number do you want"))
 if (divide %3==0) and (divide %7==0):
-    print("The nmber id divisible by 3 and 7")
+    print("The nmuber id divisible by 3 and 7")
+else:
+    print("It is not divisible by ")
