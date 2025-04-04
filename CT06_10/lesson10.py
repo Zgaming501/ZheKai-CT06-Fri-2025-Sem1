@@ -23,3 +23,4 @@ else:
     print("It is not divisible by 3 and 7")
 rider1 = ("How old are you")
 rider2 = ("How old are u")
+
