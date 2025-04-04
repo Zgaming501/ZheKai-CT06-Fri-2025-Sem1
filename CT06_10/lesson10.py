@@ -23,5 +23,6 @@ else:
     print("It is not divisible by 3 and 7")
 rider1 = 25
 rider2 = 6
-
+if rider1 >= 18 or rider2 >= 18:
+    print("")
 
