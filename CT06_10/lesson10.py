@@ -6,3 +6,4 @@ elif age>17:
     print("U can vote eligible")
 else:
     print("U are not of eligible age to vote yet Womp Womp")
+price = int(impu)
