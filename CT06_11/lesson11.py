@@ -7,4 +7,6 @@ elif 79<score<90:
 elif 69<score<80:
     print("AL3")
 elif 59<score<70:
-    print("AL")
+    print("AL4")
+else:
+    print
