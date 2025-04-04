@@ -15,3 +15,4 @@ elif px <=500:
     print("Where does ur money come from")
 elif px >=500:
     print("do you u really need this? If u are so rich, gimmie money$$")
+
