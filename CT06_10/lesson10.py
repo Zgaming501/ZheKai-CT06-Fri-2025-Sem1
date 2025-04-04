@@ -16,3 +16,4 @@ elif px <=500:
 elif px >=500:
     print("do you u really need this? If u are so rich, gimmie money$$")
 
+divide = int(input("What number do you want"))
