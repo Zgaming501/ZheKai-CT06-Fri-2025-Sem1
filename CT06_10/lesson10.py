@@ -5,4 +5,4 @@ if remainder == 0:
     print("It is an even number")
 else: 
     print("It is an odd number")
-age = intinput
+age = int(input("How old are u?"))
