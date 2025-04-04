@@ -6,3 +6,5 @@ if remainder == 0:
 else: 
     print("It is an odd number")
 age = int(input("How old are u?"))
+if age == 0:
+    print("")
