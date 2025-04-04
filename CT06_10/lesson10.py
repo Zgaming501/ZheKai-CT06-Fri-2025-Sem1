@@ -5,4 +5,4 @@ if age == 0:
 elif age>17:
     print("U can vote eligible")
 else:
-    print("U are eligible to vote")
+    print("U are not age yet to ")
