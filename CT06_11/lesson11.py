@@ -1,2 +1,2 @@
 print("Hello from lesson 11")
-int(input("What number do you want"))
+score = int(input("What number do you want"))
