@@ -11,4 +11,4 @@ if age == 0:
 elif 0 <age< 18:
     print("Not eligible to vote")
 else:
-    print("")
+    print("U are eligible to vote")
