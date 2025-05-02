@@ -55,5 +55,11 @@ while True:
         break
     elif answer== "1":
         amount = input("how much to withdraw?")
+        amount = int(amount)
+        if amount <=balance:
+            balance = balance - amount
+            print("successful, ur cash is dispensed")
+        else:
+            print
     else:
         print("invalid choice")
