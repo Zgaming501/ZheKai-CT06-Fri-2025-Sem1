@@ -1,2 +1,2 @@
 print("Hello from lesson 15")
-groceries = []
+groceries = ["Apples", ]
