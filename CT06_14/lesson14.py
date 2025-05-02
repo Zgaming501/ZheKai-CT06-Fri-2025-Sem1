@@ -41,3 +41,6 @@ answer = input("What are u looking for?")
 for item in catalogue:
     print("Yes, we do sell them and is costs $1000")
     found = True
+    break
+
+if not found
