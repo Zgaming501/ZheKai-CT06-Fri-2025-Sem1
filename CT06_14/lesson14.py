@@ -10,3 +10,4 @@ zoo = ["flamingo", "bats"]
 zoo.append("elephant")
 zoo.append("tiger")
 zoo.inserts(1, "deer")
+print(zoo)
