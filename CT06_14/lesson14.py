@@ -7,3 +7,4 @@ del(groceries[1])
 print(groceries)
 
 zoo = ["flamingo", "bats"]
+zoo
