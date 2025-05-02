@@ -24,7 +24,7 @@ for item in groceries:
     elif item == "Bread":
         print(item + ": I need 5 of these")
     elif item == "Carrots":
-        print(item + ": I need 5 of these")
+        print(item + ": I need 3 of these")
     elif item == "Dates":
         print(item + ": I need five of these")
     elif item == "Eggs":
