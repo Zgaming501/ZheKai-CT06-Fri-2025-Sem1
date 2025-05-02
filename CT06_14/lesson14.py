@@ -36,4 +36,4 @@ else:
     print("end of list")
 
 found = false
-catalogue = ["IPhine"]
+catalogue = ["IPhone"]
