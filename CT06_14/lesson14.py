@@ -37,3 +37,4 @@ else:
 
 found = false
 catalogue = ["IPhone", "IPad", "Nintendo Switch", "Durians"]
+answer = input("What ")
