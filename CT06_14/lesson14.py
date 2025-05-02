@@ -3,3 +3,4 @@ groceries = ["Apples", "Bread", "carrots", "Dates", "Eggs", "Flour", "grapes", "
 groceries[7] = "Herbs"
 print(groceries)
 zoo = []
+zoo.append("Ice")
