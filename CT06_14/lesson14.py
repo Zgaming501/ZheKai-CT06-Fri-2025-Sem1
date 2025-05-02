@@ -31,3 +31,4 @@ for item in groceries:
         print("I need 10 of these")
 start = 14
 while start <= 168:
+    print(start)
