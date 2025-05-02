@@ -6,4 +6,4 @@ groceries.append("water")
 del(groceries[1])
 print(groceries)
 
-zoo = 
+zoo = ["flamingo", "bats"]
