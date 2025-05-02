@@ -6,15 +6,15 @@ groceries.append("water")
 del(groceries[1])
 print(groceries)
 
-zoo = ["flamingo", "bats"]
-zoo.append("elephant")
-zoo.append("tiger")
-zoo.inserts(1, "deer")
-print(zoo)
-print(zoo[3-1])
-for a in zoo:
-    print(a)
-zoo.pop()
-print(zoo)
-del(zoo[0])
-print(zoo)
+# zoo = ["flamingo", "bats"]
+# zoo.append("elephant")
+# zoo.append("tiger")
+# zoo.inserts(1, "deer")
+# print(zoo)
+# print(zoo[3-1])
+# for a in zoo:
+#     print(a)
+# zoo.pop()
+# print(zoo)
+# del(zoo[0])
+# print(zoo)
