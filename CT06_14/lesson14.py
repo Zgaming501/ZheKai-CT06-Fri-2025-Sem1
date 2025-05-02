@@ -17,3 +17,4 @@ for a in zoo:
 zoo.pop()
 print(zoo)
 del(zoo[0])
+print(zoo)
