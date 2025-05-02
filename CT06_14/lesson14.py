@@ -13,4 +13,4 @@ zoo.inserts(1, "deer")
 print(zoo)
 print(zoo[3-1])
 for a in zoo:
-    
+    print(a)
