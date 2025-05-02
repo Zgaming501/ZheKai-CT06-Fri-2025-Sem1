@@ -8,3 +8,4 @@ print(groceries)
 
 zoo = ["flamingo", "bats"]
 zoo.append("elephant")
+zoo.append("tiger")
