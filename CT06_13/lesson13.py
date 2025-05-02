@@ -54,7 +54,7 @@ while True:
         balance = int(amount)
         break
     elif answer== "1":
-        
+        amount = input(how muh to withdraw")
 
     else:
         print("invalid choice")
