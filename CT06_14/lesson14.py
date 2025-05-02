@@ -3,5 +3,5 @@ groceries = ["Apples", "Bread", "carrots", "Dates", "Eggs", "Flour", "grapes", "
 groceries[7] = "Herbs"
 groceries.append("Ice")
 groceries.append("water")
-del
+del(lists[3])
 print(groceries)
