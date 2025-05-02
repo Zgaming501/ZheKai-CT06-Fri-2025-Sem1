@@ -53,6 +53,8 @@ while True:
         amount = int(amount)
         balance = int(amount)
         break
-    
+    elif answer== "1":
+        
+
     else:
         print("invalid choice")
