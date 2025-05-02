@@ -1,2 +1,2 @@
 print("Hello from lesson 15")
-groceries = ["Apples", "Bread", "carrots", ]
+groceries = ["Apples", "Bread", "carrots", "Dates"':']
