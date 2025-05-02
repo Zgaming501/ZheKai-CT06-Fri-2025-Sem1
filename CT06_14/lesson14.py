@@ -39,4 +39,5 @@ found = false
 catalogue = ["IPhone", "IPad", "Nintendo Switch", "Durians"]
 answer = input("What are u looking for?")
 for item in catalogue:
-    print("Yes, we do sell them and is costs ")
+    print("Yes, we do sell them and is costs $1000")
+    found = True
