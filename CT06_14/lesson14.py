@@ -5,3 +5,4 @@ print(groceries)
 groceries = []
 groceries.append("Ice")
 groceries.append("water")
+print(groceries)
