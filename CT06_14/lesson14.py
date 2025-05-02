@@ -20,4 +20,4 @@ print(groceries)
 # print(zoo)
 for item in groceries:
     if item == " Apples":
-        print(item + ": I need  ")
+        print(item + ": I need 5 of these")
