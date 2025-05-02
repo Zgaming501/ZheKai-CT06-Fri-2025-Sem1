@@ -60,6 +60,6 @@ while True:
             balance = balance - amount
             print("successful, ur cash is dispensed")
         else:
-            print("")
+            print("you have insufficient balance to ")
     else:
         print("invalid choice")
