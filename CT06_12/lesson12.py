@@ -24,8 +24,8 @@ for counter in range (18,31,1):
 for counter in range (4,26,1):
     print(int(counter))
 
-while visitor 
-
+order= "" 
+answer= imput("what is ur order")
 
 
 
