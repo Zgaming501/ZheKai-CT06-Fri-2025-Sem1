@@ -28,4 +28,4 @@ for item in groceries:
     elif item == "Dates":
         print(item + ": I need five of these")
     elif item == "Eggs":
-        
+        print("")
