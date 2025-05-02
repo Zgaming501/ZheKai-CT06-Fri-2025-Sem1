@@ -18,3 +18,6 @@ print(groceries)
 # print(zoo)
 # del(zoo[0])
 # print(zoo)
+for item in groceries:
+    if item == " Apples":
+        
