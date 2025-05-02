@@ -43,4 +43,5 @@ for item in catalogue:
     found = True
     break
 
-if not found
+if not found:
+    print("No, we don't sell that get out")
