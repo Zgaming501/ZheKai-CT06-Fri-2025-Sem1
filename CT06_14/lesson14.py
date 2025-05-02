@@ -3,4 +3,4 @@ groceries = ["Apples", "Bread", "carrots", "Dates", "Eggs", "Flour", "grapes", "
 groceries[7] = "Herbs"
 print(groceries)
 for apple in groceries: 
-    print(Apple)
+    print(Apples)
