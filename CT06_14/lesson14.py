@@ -21,11 +21,11 @@ print(groceries)
 for item in groceries:
     if item == " Apples":
         print(item + ": I need 5 of these")
-    elif item == "Bread":
-        print(item + ": I need 5 of these")
     elif item == "Carrots":
         print(item + ": I need 3 of these")
     elif item == "Dates":
         print(item + ": I need five of these")
     elif item == "Grapes":
         print("Go get farm fresh ones")
+    else:
+        print("I need 10 of these")
