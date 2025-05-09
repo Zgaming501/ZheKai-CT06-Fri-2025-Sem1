@@ -20,4 +20,5 @@ else:
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "earth"
 planets.append("neptune")
+
 print("planets")
