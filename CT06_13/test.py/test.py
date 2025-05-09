@@ -19,7 +19,8 @@
 # Print the third item mars
 # append neptune
 # rename mars to muskworld
-# 
+# remove uranus 
+# use for 
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
