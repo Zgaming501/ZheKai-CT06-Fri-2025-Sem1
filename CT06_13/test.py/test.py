@@ -16,5 +16,5 @@ else:
     print("Access granted")
 
 
-
-planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urna"]
+#Question 2
+planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
