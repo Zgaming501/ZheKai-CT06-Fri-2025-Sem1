@@ -21,4 +21,4 @@ planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
 del(planets[6])
-print("planets")
+print(planets)
