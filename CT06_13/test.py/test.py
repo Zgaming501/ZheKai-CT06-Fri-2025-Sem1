@@ -13,4 +13,4 @@ password = int(input("What is the password?"))
 if not (password == "superpassword123"):
     print("Access denied")
 else:
-    print
+    print("Access granted")
