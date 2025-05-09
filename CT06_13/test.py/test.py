@@ -6,3 +6,6 @@ while counter in range(9,201):
     print(int(counter))
 #task 2
 #password checker to protect superpass123
+# ask user for password
+# password dorrect = acess granted
+#
