@@ -22,4 +22,5 @@ planets[3] = "mars"
 planets.append("neptune")
 del(planets[3])
 planets.inserts(3, "muskworld")
+del(planets[6])
 print("planets")
