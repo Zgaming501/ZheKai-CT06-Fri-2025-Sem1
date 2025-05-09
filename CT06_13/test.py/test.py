@@ -9,7 +9,7 @@
 # password dorrect = access granted
 # password incorrect = access denied
 password = int(input("What is the password?"))
-if not (password == "superpassword123"):
+if password == "superpassword123":
     print("Access denied")
 else:
     print("Access granted")
