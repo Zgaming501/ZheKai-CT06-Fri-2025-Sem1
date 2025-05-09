@@ -11,4 +11,6 @@ while number in range(9,201):
 # password incorrect = access denied
 password = int(input("What is the password?"))
 if not (password == "superpassword123"):
-    print()
+    print("Access denied")
+else:
+    print
