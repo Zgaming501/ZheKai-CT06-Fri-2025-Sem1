@@ -21,5 +21,5 @@ planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
 del(planets[3])
-zoo.inserts(1, "deer")
+planets.inserts(1, "deer")
 print("planets")
