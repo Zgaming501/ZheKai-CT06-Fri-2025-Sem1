@@ -17,4 +17,4 @@ else:
 
 
 
-planets = ["mecury", "venus", "earth", ""]
+planets = ["mecury", "venus", "earth", "mars", "jupiter",]
