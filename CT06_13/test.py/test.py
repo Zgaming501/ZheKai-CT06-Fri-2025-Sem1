@@ -16,7 +16,8 @@
     #print("Access granted")
 
 # queston 2
-# P
+# Print the third item mars
+# 
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
