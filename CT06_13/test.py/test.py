@@ -1,0 +1,8 @@
+#task 1
+# use the while loop to print numbers 10 to 200
+# print in multiples of ten
+# number 10 first and 200 last
+while counter in range(9,201):
+    print(int(counter))
+#task 2
+#password checker to protect superpass123
