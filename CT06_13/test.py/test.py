@@ -24,3 +24,4 @@ del(planets[3])
 planets[3] = ("muskworld")
 del(planets[6])
 print(planets)
+f
