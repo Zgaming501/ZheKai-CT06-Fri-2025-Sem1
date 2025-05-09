@@ -17,7 +17,8 @@
 
 # queston 2
 # Print the third item mars
-# 
+# append neptune
+# ren
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
