@@ -7,5 +7,5 @@ while counter in range(9,201):
 #task 2
 #password checker to protect superpass123
 # ask user for password
-# password dorrect = acess granted
-# password incorrect = 
+# password dorrect = access granted
+# password incorrect = access denied
