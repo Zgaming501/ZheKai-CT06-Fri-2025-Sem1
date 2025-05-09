@@ -15,6 +15,7 @@
 #else:
     #print("Access granted")
 
+# queston 2
 # 
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
