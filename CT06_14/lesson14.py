@@ -9,7 +9,7 @@ print(groceries)
 # zoo = ["flamingo", "bats"]
 # zoo.append("elephant")
 # zoo.append("tiger")
-# zoo.inserts(1, "deer")
+#  
 # print(zoo)
 # print(zoo[3-1])
 # for a in zoo:
