@@ -20,7 +20,7 @@
 # append neptune
 # rename mars to muskworld
 # remove uranus 
-# use for 
+# use for to print planets one by one
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
 planets[3] = "mars"
 planets.append("neptune")
@@ -28,4 +28,4 @@ del(planets[3])
 planets[3] = ("muskworld")
 del(planets[6])
 print(planets)
-f
+
