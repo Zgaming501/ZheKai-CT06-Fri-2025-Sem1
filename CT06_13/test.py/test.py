@@ -9,4 +9,4 @@ while number in range(9,201):
 # ask user for password
 # password dorrect = access granted
 # password incorrect = access denied
-password = int(input)
+password = int(input("What s\"))
