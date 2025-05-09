@@ -18,4 +18,4 @@ else:
 
 #Question 2
 planets = ["mecury", "venus", "earth", "mars", "jupiter","saturn","urnaus"]
-planets[]
+planets[3] = "earth"
