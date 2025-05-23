@@ -45,3 +45,49 @@ for item in catalogue:
 
 if not found:
     print("No, we don't sell that get out!!!!")
+
+import turtle
+
+window = turtle.Screen()
+window.setup(width=400, height=400)
+
+daisy = turtle.Turtle()
+daisy.goto(0,0)
+daisy.up()
+
+while daisy.xcor() < 198:
+  daisy.forward(1)
+   
+daisy.down()
+daisy.seth(90)
+
+while daisy.ycor() < 198:
+  daisy.forward(1)
+  
+daisy.seth(180)
+
+while daisy.xcor() > -198:
+  daisy.forward(1)
+  
+daisy.seth(270)
+while daisy.ycor() > -198:
+   daisy.forward(1)
+   
+daisy.seth(0)
+while daisy.xcor() < 198:
+  daisy.forward(1)
+  
+daisy.seth(90)
+while daisy.ycor() < 0:
+  daisy.forward(1)
+
+
+
+
+
+
+
+
+
+
+    
